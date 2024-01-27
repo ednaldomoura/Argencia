@@ -1,0 +1,41 @@
+@media screen and (max-width:1000px){
+    .navbar{
+        position: relative;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        text-align: center;
+    }
+    
+    .header{
+        padding: 50px;
+    }
+
+    .readline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+ .readline p{
+    text-align: center;
+ }
+
+ .img-headline{
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+ }
+ .card{
+    width: 100%;
+ }
+ .img-zap{
+    display: none;
+ }
+ .fale-conosco{
+    display: none;
+ }
+}
